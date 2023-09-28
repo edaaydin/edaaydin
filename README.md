@@ -1,5 +1,22 @@
-<h1 align="center">Hi 👋, I'm Eda Aydın</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<Merhaba, Ben Eda Aydın 👋
+
+Ben İstinye Üniversitesi Bilgisayar Programcılığı öğrencisiyim ve burada kendi projelerimi ve eğitim gördüğüm staj yerlerinde çalıştığım projeleri paylaşıyorum.
+
+Hakkımda
+
+📚 İstinye Üniversitesi'nde Bilgisayar Programcılığı okuyorum.
+💼 Staj yaptığım yerlerdeki projeler ve çalışmaları burada paylaşıyorum.
+🌱 Sürekli kendimi geliştirmek ve yeni teknolojilere hakim olmak için çaba sarf ediyorum.
+İletişim
+
+Benimle aşağıdaki platformlardan iletişime geçebilirsiniz:
+
+GitHub: [GitHub/edaaydin]
+LinkedIn: [LinkedIn/edaaydin-developer]
+E-posta: eda.aydin.software@gmail.com]
+Teşekkürler
+
+Profilimi ziyaret ettiğiniz için teşekkür ederim! Daha fazla projemi incelemek ve iletişime geçmek için lütfen yukarıdaki bilgileri kullanın.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edaaydin&label=Profile%20views&color=0e75b6&style=flat" alt="edaaydin" /> </p>
 
