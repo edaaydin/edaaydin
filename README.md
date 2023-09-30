@@ -27,7 +27,7 @@ Benimle aşağıdaki platformlardan iletişime geçebilirsiniz:
 
 ## Teşekkürler
 
-Profilimi ziyaret ettiğiniz için teşekkür ederim! Daha fazla projemi incelemek ve iletişime geçmek için yukarıdaki bilgileri kullanmanızı kullanabilirsiniz.
+Profilimi ziyaret ettiğiniz için teşekkür ederim! Daha fazla projemi incelemek ve iletişime geçmek için yukarıdaki bilgileri kullanabilirsiniz.
 
 ## 📊 GitHub Stats:
 
