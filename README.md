@@ -15,7 +15,7 @@ Başarı odaklı, tutkulu ve öğrenmeye açık bir yazılımcı olarak, yeni pr
 
 - Model Bilgi İşlem şirketinde Yazılım Stajyerliği yaptım. Sizlere stajda neler yaptığımdan bahsetmek isterim. Staj yaptığım şirketin kendine ait bir yazılım dili vardı ve bu yazılım dilini öğrenmek adına eğitim videolarını izledim ve o dilin mantığını ve çalışma prensibini öğrenmeye çalıştım. Her geçen gün stajda kendime bir şeyler katmaya çalıştım ve kendimce de kattığımı düşünmekteyim. Arta kalan zamanlarımda ise üniversitedeki derslerimin tekrarını yapma ve BTK Akademi'den kurs izleyip bitirme fırsatını buldum. Staj dönemimin bana hem eğlence kattığını hem de fazlasıyla yeni deneyimler kazandırdığını düşünmekteyim.
 
-- Şu anda Öğrenci Asistanlığı ve Siber Güvenlik Kulüp Başkanlığı görevlerimi yerine getirmekteyim.
+- Eğitimim ve kariyerimin dışında da sosyal anlamda da kendimi geliştirmekteyim. Şu anda İstinye Üniversitesi'nde Öğrenci Asistanlığı ve Siber Güvenlik Kulüp Başkanlığı görevlerimi yerine getirmekteyim.
 
 ## İletişim
 
