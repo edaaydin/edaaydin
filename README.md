@@ -11,9 +11,11 @@ Başarı odaklı, tutkulu ve öğrenmeye açık bir yazılımcı olarak, yeni pr
 
 ## Hakkımda
 
-- 📚 İstinye Üniversitesi'nde Bilgisayar Programcılığı okuyorum.
-- 💼 Staj yaptığım yerlerdeki projeler ve çalışmaları burada paylaşıyorum.
-- 🌱 Sürekli kendimi geliştirmek ve yeni teknolojilere hakim olmak için çaba sarf ediyorum.
+- Biraz size kendimden bahsedeyim. İstinye üniversitesi Bilgisayar Programcılığı 2.sınıf öğrencisiyim ve Bilişim Güvenliği Teknolojisi bölümünde Çift Anadal yapmaktayım. Aldığım dersler dışında kendimi sürekli olarak geliştirmekteyim. Web alanında HTML, CSS ve JavaScript eğitimleri aldıktan sonra kendimce ufak çaplı siteler yapmaya başladım ve her geçen gün kendimi geliştirmekteyim. Python eğitimimi sürdürmekteyim ve projelerle birlikte eğitimime katkı sağlamaktayım. C dilinde de eğitimimi sürdürmekteyim ve çeşitli projelerle birlikte kendimi geliştirmekteyim. Ayrıca MySQL, MSSQL, WordPress, MS Office gibi çeşitli programlama dillerinde de tecrübelerim bulunmaktadır.
+
+- Model Bilgi İşlem şirketinde Yazılım Stajyerliği yaptım. Sizlere stajda neler yaptığımdan bahsetmek isterim. Staj yaptığım şirketin kendine ait bir yazılım dili vardı ve bu yazılım dilini öğrenmek adına eğitim videolarını izledim ve o dilin mantığını ve çalışma şeklini öğrenmeye çalıştım. Her geçen gün stajda kendime bir şeyler katmaya çalıştım ve kendimce de kattığımı düşünmekteyim. Arta kalan zamanlarımda ise üniversitedeki derslerimin tekrarını yapma ve BTK Akademi'den kurs izleyip bitirme fırsatını buldum. Staj dönemim bana hem eğlence kattığını hem de fazlasıyla yeni deneyimler kazandırdığını düşünmekteyim.
+
+- Şu anda Öğrenci Asistanlığı ve Siber Güvenlik Kulüp Başkanlığı görevlerimi yerine getirmekteyim.
 
 ## İletişim
 
@@ -25,7 +27,7 @@ Benimle aşağıdaki platformlardan iletişime geçebilirsiniz:
 
 ## Teşekkürler
 
-Profilimi ziyaret ettiğiniz için teşekkür ederim! Daha fazla projemi incelemek ve iletişime geçmek için lütfen yukarıdaki bilgileri kullanın.
+Profilimi ziyaret ettiğiniz için teşekkür ederim! Daha fazla projemi incelemek ve iletişime geçmek için yukarıdaki bilgileri kullanmanızı kullanabilirsiniz.
 
 ## 📊 GitHub Stats:
 
