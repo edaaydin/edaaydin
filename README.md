@@ -1,6 +1,13 @@
 # Merhaba, Ben Eda Aydın 👋
 
-Ben İstinye Üniversitesi Bilgisayar Programcılığı öğrencisiyim ve burada kendi projelerimi ve eğitim gördüğüm staj yerlerinde çalıştığım projeleri paylaşıyorum. 
+Yazılım geliştirme konusunda tutkulu ve istekli bir yazılımcıyım. Bilgisayarlara ve teknolojik aletlere olan ilgim, beni bu alanda kariyer yapmaya yönlendirdi. Kendimi sürekli geliştirme konusundaki kararlılığım, karmaşık problemleri çözme yeteneğim ve yazılım geliştirme projelerine olan ilgim, beni başarılı bir yazılımcı yapmaya yönlendireceğinden eminim.
+
+Yazılım dünyasında çeşitli projelerde çalışarak farklı programlama dillerini öğrenerek ve yeni teknolojileri keşfederek geniş bir deneyim kazanmak için kendimi sürekli geliştirmekteyim. Kod yazma süreçlerindeki disiplinim ve detaylara verdiğim önem, yüksek kaliteli yazılım ürünleri oluşturmamı sağlayacağına eminim. Ayrıca, yazılım geliştirme süreçlerini optimize etmek için çeşitli geliştirme araçlarını ve metodolojileri öğrenip deneyim kazandıktan sonra onları etkin bir şekilde kullanmayı hedeflerim arasına koydum.
+
+Takım çalışması benim için önemli bir değerdir ve ekip üyeleri arasında etkili iletişim kurma becerisine sahibim. Bir projenin başarısını, ekip işbirliğine ve her bir üyenin katkısına bağlı olduğuna inanıyorum. Ekip arkadaşlarımla İşbirliği içinde çalışmayı, karmaşık problemleri çözmeyi ve projeleri başarıyla tamamlamayı kendime hedef haline getirdim. 
+
+Sürekli olarak yeni teknolojileri ve trendleri takip ederek, kendimi geliştirmeyi sürdürüyorum ve her yeni proje veya görevde öğrenme fırsatlarını değerlendirmeyi amaçlıyorum.
+Başarı odaklı, tutkulu ve öğrenmeye açık bir yazılımcı olarak, yeni projelerde değer katmak ve yazılım dünyasında daha da ileri gitmek isterim.
 
 ## Hakkımda
 
