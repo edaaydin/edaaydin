@@ -7,7 +7,7 @@ Yazılım dünyasında çeşitli projelerde çalışarak farklı programlama dil
 Takım çalışması benim için önemli bir değerdir ve ekip üyeleri arasında etkili iletişim kurma becerisine sahibim. Bir projenin başarısını, ekip işbirliğine ve her bir üyenin katkısına bağlı olduğuna inanıyorum. Ekip arkadaşlarımla İşbirliği içinde çalışmayı, karmaşık problemleri çözmeyi ve projeleri başarıyla tamamlamayı kendime hedef haline getirdim. 
 
 Sürekli olarak yeni teknolojileri ve trendleri takip ederek, kendimi geliştirmeyi sürdürüyorum ve her yeni proje veya görevde öğrenme fırsatlarını değerlendirmeyi amaçlıyorum.
-Başarı odaklı, tutkulu ve öğrenmeye açık bir yazılımcı olarak, yeni projelerde değer katmayı ve yazılım dünyasında daha da ileri bir seviyeye gelmek isterim.
+Başarı odaklı, tutkulu ve öğrenmeye açık bir yazılımcı olarak, yeni projelere değer katmayı ve yazılım dünyasında daha da ileri bir seviyeye gelmek isterim.
 
 ## Hakkımda
 
