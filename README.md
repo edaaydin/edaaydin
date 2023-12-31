@@ -23,8 +23,7 @@ Benimle aşağıdaki platformlardan iletişime geçebilirsiniz:
 
 - GitHub: [[GitHub/edaaydin](GitHub-linki)]
 - LinkedIn: [[LinkedIn/edaaydin-developer](https://www.linkedin.com/in/edaaydin-developer/)]
-- E-posta: [eda.aydin.software@gmail.com](mailto:eda.aydin.software@gmail.com)]
-
+  
 ## Teşekkürler
 
 Profilimi ziyaret ettiğiniz için teşekkür ederim! Daha fazla projemi incelemek ve iletişime geçmek için yukarıdaki bilgileri kullanabilirsiniz.
