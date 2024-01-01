@@ -17,17 +17,6 @@ Başarı odaklı, tutkulu ve öğrenmeye açık bir yazılımcı olarak, yeni pr
 
 - Eğitimim ve kariyerimin dışında da sosyal anlamda da kendimi geliştirmekteyim. Şu anda İstinye Üniversitesi'nde Öğrenci Asistanlığı ve Siber Güvenlik Kulüp Başkanlığı görevlerimi yerine getirmekteyim.
 
-## İletişim
-
-Benimle aşağıdaki platformlardan iletişime geçebilirsiniz:
-
-- GitHub: [[GitHub/edaaydin](GitHub-linki)]
-- LinkedIn: [[LinkedIn/edaaydin-developer](https://www.linkedin.com/in/edaaydin-developer/)]
-  
-## Teşekkürler
-
-Profilimi ziyaret ettiğiniz için teşekkür ederim! Daha fazla projemi incelemek ve iletişime geçmek için yukarıdaki bilgileri kullanabilirsiniz.
-
 ## 📊 GitHub Stats:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edaaydin&label=Profile%20views&color=0e75b6&style=flat" alt="edaaydin" /> </p>
