@@ -1,4 +1,4 @@
-# Hakkımda
+# Merhabalar, Ben Eda Aydın 👋
 
 İstinye Üniversitesi Bilgisayar Programcılığı son sınıf öğrencisiyim ve Bilişim Güvenliği Teknolojisi bölümünden de Çift Anadal yapmaktayım. Aldığım dersler dışında kendimi sürekli olarak geliştirmekteyim. Web alanında HTML, CSS ve JavaScript eğitimleri aldıktan sonra kendimce ufak çaplı siteler yapmaya başladım ve her geçen gün kendimi geliştirmekteyim. Python, C ve C# dillerinde eğitimimi sürdürmekteyim ve çeşitli projelerle birlikte kendimi geliştirmekteyim. Mobil Programlama (Flutter) alanında arayüz tasarımları yazarak kendimi geliştirmekteyim. Ayrıca MySQL, MSSQL, WordPress, LaTeX gibi çeşitli programlama dillerinde ve MS Office, MS Project gibi çeşitli teknolojilere hakimim.
 
