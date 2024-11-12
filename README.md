@@ -2,6 +2,8 @@
 
 Yazılım geliştirme konusundaki tutkum ve sürekli kendimi geliştirme arzum, ekip çalışması, etkili iletişim,problem çözme ve yüksek kaliteli yazılım ürünleri sunma konusundaki kararlılığımı yansıtıyor. Yazılım geliştirme süreçlerini optimize etmeyi amaçlıyor, farklı geliştirme araçlarını ve metodolojilerini etkili bir şekildeöğrenerek kullanmayı hedefliyorum.
 <br>
+<br>
+
 Grafik tasarım konusunda da her geçen gün kendimi geliştiriyorum. Adobe Creative Cloud (XD, Photoshop,Illustrator, InDesign) programlarını kullanarak görsel tasarımlar yapmaya başladım. Web ve mobil arayüz tasarımı, vektörel grafik tasarımı, Logo tasarımı, tipografi tasarımları, infografik tasarımı, afiş ve broşür tasarımları gibi alanlarda kendimi geliştirmekteyim. Tasarımlarımda görsel anlatımı, teknik bilgi ve kullanıcı deneyimiyle birleştirerek etkileyici ve işlevsel çözümler üretmeye özen gösteriyorum.
 
 ## 📊 GitHub Stats:
