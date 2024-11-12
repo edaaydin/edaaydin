@@ -1,12 +1,14 @@
 # Merhabalar, Ben Eda Aydın 👋
 
-İstinye Üniversitesi Bilgisayar Programcılığı son sınıf öğrencisiyim ve Bilişim Güvenliği Teknolojisi bölümünden de Çift Anadal yapmaktayım. Aldığım dersler dışında kendimi sürekli olarak geliştirmekteyim. Web alanında HTML, CSS ve JavaScript eğitimleri aldıktan sonra kendimce ufak çaplı siteler yapmaya başladım ve her geçen gün kendimi geliştirmekteyim. Python, C ve C# dillerinde eğitimimi sürdürmekteyim ve çeşitli projelerle birlikte kendimi geliştirmekteyim. Mobil Programlama (Flutter) alanında arayüz tasarımları yazarak kendimi geliştirmekteyim. Ayrıca MySQL, MSSQL, WordPress, LaTeX gibi çeşitli programlama dillerinde ve MS Office, MS Project gibi çeşitli teknolojilere hakimim.
+Yazılım geliştirme konusundaki tutkum ve sürekli kendimi geliştirme arzum, ekip çalışması, etkili iletişim,problem çözme
+ve yüksek kaliteli yazılım ürünleri sunma konusundaki kararlılığımı yansıtıyor. Yazılım geliştirme süreçlerini optimize
+etmeyi amaçlıyor, farklı geliştirme araçlarını ve metodolojilerini etkili bir şekildeöğrenerek kullanmayı hedefliyorum.
+Grafik tasarım konusunda da her geçen gün kendimi geliştiriyorum. Adobe Creative Cloud (XD, Photoshop,Illustrator,
+InDesign) programlarını kullanarak görsel tasarımlar yapmaya başladım. Web ve mobil arayüz tasarımı, vektörel grafik
+tasarımı, Logo tasarımı, tipografi tasarımları, infografik tasarımı, afiş ve broşür tasarımları gibi alanlarda kendimi
+geliştirmekteyim. Tasarımlarımda görsel anlatımı, teknik bilgi ve kullanıcı deneyimiyle birleştirerek etkileyici ve işlevsel
+çözümler üretmeye özen gösteriyorum
 
-Grafik tasarım konusunda da her geçen gün kendimi geliştiriyorum. Adobe Creative Cloud (XD, Photoshop, Illustrator, InDesign) programlarını kullanarak görsel tasarımlar yapmaya başladım. Web ve mobil arayüz tasarımı, vektörel grafik tasarımı, Logo tasarımı, tipografi tasarımları, infografik tasarımı, afiş ve broşür tasarımları gibi alanlarda kendimi geliştirmekteyim. Tasarımlarımda görsel anlatımı, teknik bilgi ve kullanıcı deneyimiyle birleştirerek etkileyici ve işlevsel çözümler üretmeye özen gösteriyorum.
-
-Yazılım geliştirme konusundaki tutkum ve sürekli kendimi geliştirme arzum, ekip çalışması, etkili iletişim, problem çözme ve yüksek kaliteli yazılım ürünleri sunma konusundaki kararlılığımı yansıtıyor. Yazılım geliştirme süreçlerini optimize etmeyi amaçlıyor, farklı geliştirme araçlarını ve metodolojilerini etkili bir şekilde öğrenerek kullanmayı hedefliyorum.
-
-Yeni teknolojilere ve trendlere karşı büyük bir ilgi duyuyor ve yazılım geliştirme alanında ilerlerken yeni projelere değer katmayı amaçlıyorum. Bilgisayarlar ve teknolojik cihazlar konusundaki güçlü ilgim ve tutkumla birlikte sürekli öğrenme, problem çözme ve yazılım geliştirme projelerine değer katma konusundaki kararlılığımı sürdürüyorum.
 ## 📊 GitHub Stats:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edaaydin&label=Profile%20views&color=0e75b6&style=flat" alt="edaaydin" /> </p>
