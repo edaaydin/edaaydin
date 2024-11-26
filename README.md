@@ -1,6 +1,6 @@
 # Merhabalar, Ben Eda Aydın 👋
 
-Yazılım geliştirme konusundaki tutkum ve sürekli kendimi geliştirme arzum, ekip çalışması, etkili iletişim,problem çözme ve yüksek kaliteli yazılım ürünleri sunma konusundaki kararlılığımı yansıtıyor. Yazılım geliştirme süreçlerini optimize etmeyi amaçlıyor, farklı geliştirme araçlarını ve metodolojilerini etkili bir şekildeöğrenerek kullanmayı hedefliyorum.
+Yazılım geliştirme konusundaki tutkum ve sürekli kendimi geliştirme arzum, ekip çalışması, etkili iletişim,problem çözme ve yüksek kaliteli yazılım ürünleri sunma konusundaki kararlılığımı yansıtıyor. Yazılım geliştirme süreçlerini optimize etmeyi amaçlıyor, farklı geliştirme araçlarını ve metodolojilerini etkili bir şekilde öğrenerek kullanmayı hedefliyorum.
 <br>
 <br>
 
